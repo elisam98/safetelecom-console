@@ -1,10 +1,10 @@
 {
-    "name": "safetelecom-console",
-    "version": "0.0.1",
-    "description": "SafeTelecom's Console App",
-    "dependencies": {
-        "express": "*",
-        "path": "*",
-        "body-parser": "*"
-    }
+  "name": "safetelecom-console",
+  "version": "0.0.1",
+  "description": "SafeTelecom's Console App",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^5.0.0-alpha.1",
+    "path": "*"
+  }
 }
