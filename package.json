@@ -4,7 +4,8 @@
   "description": "SafeTelecom's Console App",
   "dependencies": {
     "body-parser": "*",
-    "express": "^5.0.0-alpha.1"
+    "express": "^5.0.0-alpha.1",
+    "xml2js": "^0.4.4"
   },
   "repository": {
     "type": "git",
